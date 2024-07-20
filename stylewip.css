@@ -1,0 +1,106 @@
+@media screen and (max-width: 481px){
+body{
+    background-color: #fffcf8;
+    background-image: url(Assets/Background\ Bullet\ Journal\ Dot\ Pattern.svg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto;
+    margin: 0px;
+}
+#wip-image{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -7%;
+}
+#coming-soon-message{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+p#h1{
+    text-align: center;
+    font-family: 'Sirenia';
+    font-size: 50px;
+    font-weight: 600;
+    color:#593624;
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+p#h2{
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 500;
+    color:#593624;
+    margin-top: 0;
+}
+p{
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    color:#593624;
+}
+#logo{
+    display: block;
+    width: 13%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -5%;
+}
+.social-media-button{
+    background-color: #505313;
+    display: flex;
+    align-items: center;
+    border-radius: 20px 20px 20px 20px;
+    width: 35px;
+    height: 35px;
+    overflow: hidden;
+    transition: all 0.2s ease;
+    margin: 10px;
+}
+#Pinterest-logo{
+    width: 20px;
+    margin-right: 10px;
+    margin-left: 7px;
+    margin-bottom: -7px;
+}
+.social-media-button:hover{
+    background-color: #505313;
+    display: flex;
+    align-items: center;
+    border-radius: 20px 20px 20px 20px;
+    width: 150px;
+    max-width: max-content;
+    height: 35px;
+    overflow: hidden;
+    transition: all 0.2s ease;
+}
+.social-media-logo{
+    width: 20px;
+    margin-right: 10px;
+    margin-left: 7px;
+}
+.social-media-button>img, .social-media-button>p{
+    display:inline-block;
+}
+#social-media-buttons>div{
+    display:inline-flex;
+}
+#social-media-buttons{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.button-text{
+    font-family: 'Poppins';
+    margin-right: 10px;
+    color:#fffcf8;
+    font-size: 18px;
+    font-weight: 400;
+}
+}
