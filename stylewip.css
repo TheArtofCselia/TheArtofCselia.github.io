@@ -1,4 +1,4 @@
-@media screen and (max-width: 481px){
+
 body{
     background-color: #fffcf8;
     background-image: url(Assets/Background\ Bullet\ Journal\ Dot\ Pattern.svg);
@@ -102,5 +102,4 @@ p{
     color:#fffcf8;
     font-size: 18px;
     font-weight: 400;
-}
 }
