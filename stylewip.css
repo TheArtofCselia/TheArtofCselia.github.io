@@ -116,9 +116,11 @@ p{
     }
     #wip-image{
         display: block;
-        width: 80%;
+        width: 100%;
         margin-left: auto;
         margin-right: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
     #coming-soon-message{
         position: absolute;
