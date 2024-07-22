@@ -114,8 +114,6 @@ p{
     #wip-image{
         display: block;
         width: 100%;
-        margin-left: auto;
-        margin-right: auto;
         margin-top: 20px;
         margin-bottom: 20px;
     }
@@ -123,7 +121,6 @@ p{
         position: absolute;
         left: 50%;
         top: 50%;
-        margin: 0px 30px;
         -webkit-transform: translate(-50%, -50%);
         transform: translate(-50%, -50%);
     }
@@ -133,7 +130,6 @@ p{
         font-size: 30px;
         font-weight: 600;
         color:#593624;
-        margin-top: 0;
         margin-bottom: 10px;
         line-height: 1;
     }
@@ -157,7 +153,6 @@ p{
         width: 40%;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: -5%;
     }
     .social-media-button{
         background-color: #505313;
@@ -187,7 +182,6 @@ p{
         transition: all 0.2s ease;
         margin: 10px;
     }
-
     .social-media-logo{
         width: 15px;
         margin-right: 5px;
