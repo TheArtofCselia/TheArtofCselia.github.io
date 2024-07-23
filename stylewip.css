@@ -110,6 +110,9 @@ p{
 a{
         text-decoration: none;
 }
+::selection {
+        background: #fee0c6;
+}
 @media screen and (max-width: 1000px){
     body{
         background-color: #fffcf8;
@@ -220,5 +223,8 @@ a{
     }
     a{
         text-decoration: none;
+    }
+    ::selection {
+        background: #fee0c6;
     }
 }
