@@ -108,10 +108,11 @@ p{
     margin: 0px -250px;
 }
 a{
-        text-decoration: none;
+    text-decoration: none;
 }
 ::selection {
-        background: #fee0c6;
+    background: #505313;
+    color: #fffcf8;
 }
 @media screen and (max-width: 1000px){
     body{
@@ -225,6 +226,7 @@ a{
         text-decoration: none;
     }
     ::selection {
-        background: #fee0c6;
+        background: #505313;
+        color: #fffcf8;
     }
 }
