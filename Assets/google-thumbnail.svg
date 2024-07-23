@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 683">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        font-size: 184.62px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #fffcf8;
+        font-family: Sirenia-Extrabold, Sirenia;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        font-size: 100.34px;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <image width="1080" height="1920" transform="translate(-30.44 -477.8)" xlink:href="../../../Downloads/Untitled_Artwork (15).png"/>
+  <g id="Group_57" data-name="Group 57">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Group_26" data-name="Group 26">
+        <g id="The_Art_of_CSELIA" data-name="The Art of CSELIA" class="cls-4">
+          <text class="cls-6" transform="translate(252.33 293.43)"><tspan class="cls-9" x="0" y="0">T</tspan><tspan x="62.81" y="0">HE A</tspan><tspan class="cls-2" x="262.99" y="0">R</tspan><tspan class="cls-7" x="321.38" y="0">T </tspan><tspan class="cls-3" x="397.74" y="0">O</tspan><tspan x="463.36" y="0">F</tspan></text>
+          <text class="cls-5" transform="translate(217.25 437.91)"><tspan x="0" y="0">C</tspan><tspan class="cls-1" x="110.22" y="0">S</tspan><tspan x="213.79" y="0">E</tspan><tspan class="cls-8" x="318.1" y="0">L</tspan><tspan class="cls-10" x="416.88" y="0">I</tspan><tspan x="471.16" y="0">A</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
